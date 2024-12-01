@@ -9,8 +9,7 @@
         <relativePath>../manong_parent/pom.xml</relativePath>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-
+<!--    <version></version>-->
     <artifactId>manong_sso</artifactId>
-
 
 </project>
