@@ -12,6 +12,8 @@
     <artifactId>manong_common</artifactId>
 
     <dependencies>
+
+        <!-- <dependency> -->
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
